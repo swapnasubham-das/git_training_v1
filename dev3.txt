@@ -1,1 +1,2 @@
 this is dev3
+this is statsh related lecture
